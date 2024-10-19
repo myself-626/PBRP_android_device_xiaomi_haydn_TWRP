@@ -24,7 +24,7 @@ PRODUCT_RELEASE_NAME := haydn
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := haydn
-PRODUCT_NAME := pb_haydn
+PRODUCT_NAME := twrp_haydn
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi K40 Pro
 PRODUCT_MANUFACTURER := Xiaomi
