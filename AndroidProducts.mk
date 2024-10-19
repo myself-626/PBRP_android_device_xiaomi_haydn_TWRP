@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pb_haydn.mk
+    $(LOCAL_DIR)/twrp_haydn.mk
